@@ -4,6 +4,16 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// interface mm{
+//   name:string
+// }
+// function fun(user:mm):void{
+//   console.log(user)
+
+// }
+// fun({name:"12"})
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
