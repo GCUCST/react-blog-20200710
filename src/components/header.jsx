@@ -24,6 +24,9 @@ export default class Header extends Component {
             <button onClick={()=>{
                 this.getName("4545")
             }}>点击</button>
+            <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
+  Button
+</button>
             </>
         )
     }
